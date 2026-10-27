@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://SocialMediaMexicoConsultoria.github.io/volandovoy/sitemap.xml
+Sitemap: https://SocialMediaMexicoConsultoria.github.io/VolandoVoy/sitemap.xml
